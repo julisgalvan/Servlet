@@ -25,5 +25,4 @@ public class NovaEmpresaServlet extends HttpServlet {
 		out.println("<html><body>Empresa " + nomeEmpresa + " cadastrada com sucesso!</body></html>");
 		
 	}
-
 }
